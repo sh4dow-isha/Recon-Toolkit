@@ -108,4 +108,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
    - **Tool**: [SSL Labs](https://www.ssllabs.com/ssltest/), [Testssl.sh](https://github.com/drwetter/testssl.sh)
    - **Usage**: These tools provide detailed analysis of SSL/TLS encryption and highlight potential weaknesses like outdated protocols or weak cipher suites.
 
-## How to Use These Tools
+
